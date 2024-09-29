@@ -5,9 +5,9 @@ If I had the chance to choose again, I definitely wouldn't choose to pursue grad
 # 摘要
 本项目主要记载那群神仙大佬中我完全看不懂的数据处理方法，不构成任何指导意见，仅作为个人代码记录指南
 # CrossDocked处理摘要
-下载代码
-Protein_PDB补全代码
+下载代码  
+Protein_PDB补全代码  
 使用的RCSB下载，有4个Not Found，忽略
 # PDBbind处理摘要
-1.记得除H
+1.记得除H  
 2.训练效果极差，原因不明
