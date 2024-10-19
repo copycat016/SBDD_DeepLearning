@@ -11,6 +11,12 @@ If I had the chance to choose again, I definitely wouldn't choose to pursue grad
 下载代码（函数待上传）  
 Protein_PDB补全代码  
 使用的RCSB下载，有4个Not Found，忽略
+
+10.19 代码忘记丢那里了，懒得找了
 # PDBbind处理摘要
 1.记得除H  
 2.训练效果极差，原因不明
+
+ReStart
+# CrossDocked
+
